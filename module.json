@@ -1,0 +1,40 @@
+{
+  "id": "the-great-toy-heist",
+  "version": "1.0.0",
+  "title": "Free RPG Day 2024 - The great toy heist",
+  "description": "Free RPG Day 2024 - The great toy heist",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "scripts": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "pf2e"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "system": "pf2e"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "5.0.0"
+        },
+        "type": "system"
+      }
+    ]
+  }
+}
