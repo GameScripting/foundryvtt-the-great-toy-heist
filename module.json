@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "title": "Free RPG Day 2024 - The great toy heist",
   "description": "Free RPG Day 2024 - The great toy heist",
+  "manifest": "https://raw.githubusercontent.com/GameScripting/foundryvtt-the-great-toy-heist/master/module.json",
+  "download": "https://github.com/GameScripting/foundryvtt-the-great-toy-heist/archive/refs/heads/master.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "12",
